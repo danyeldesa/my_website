@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://danyel-website.netlify.app
 languageCode: en-us
-title: Forty
+title: Website for DSB 2023
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,9 +8,9 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      \#A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      \#AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: My name is Danyel Desa. I am an MBA student at LBS and I am passionate about data science and coding
   blog: {}
   contact:
     address:
@@ -116,3 +116,9 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+
+
+markup: 
+  goldmark: 
+    renderer: 
+      unsafe: true
