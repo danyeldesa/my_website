@@ -1,16 +1,16 @@
 [build]
-2 publish = "public"
-3 command = "hugo"
-4
-5 [build.environment]
-6 HUGO_VERSION = "0.111.3"
-7 HUGO_ENABLEGITINFO = "true"
-8
-9 [context.production.environment]
-10 HUGO_ENV = "production"
-11
-12 [context.branch-deploy.environment]
-13 HUGO_VERSION = "0.111.3"
-14
-15 [context.deploy-preview.environment]
-16 HUGO_VERSION = "0.111.3" 
+publish = "public"
+command = "hugo"
+
+[build.environment]
+HUGO_VERSION = "0.111.3"
+HUGO_ENABLEGITINFO = "true"
+
+[context.production.environment]
+HUGO_ENV = "production"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.111.3"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.111.3" 

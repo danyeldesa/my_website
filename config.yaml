@@ -1,6 +1,6 @@
 baseURL: https://danyel-website.netlify.app/
 languageCode: en-us
-title: Website for DSB 2023
+title: Website for DSB
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -116,7 +116,6 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
-
 
 markup: 
   goldmark: 
