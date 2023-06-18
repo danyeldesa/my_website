@@ -108,12 +108,9 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "I am currently a first-year MBA student at London Business School      \r\n    I aspire to break in to the technology industry upon my graduation and I am actively working on building these skills. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "I am currently a first-year MBA student at London Business School.      \r\n    I aspire to break in to the technology industry upon my graduation and I am actively working on building these skills. \r\n    I graduated
+      with a bachelor's and master's degree in electrical engineering and spent 4 years working in finance. Here you can find links to a few data science projects that I have undertaken, along with my CV, and a link to a blog that I wrote about renewable energy."
+    title: About Me
     url: blogs
 
 markup: 
