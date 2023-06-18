@@ -10,22 +10,22 @@ params:
     subtitle: |-
       \#A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       \#AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: My name is Danyel Desa. I am an MBA student at LBS and I am passionate about data science and coding
+    title: My name is Danyel Desa. I am passionate about data science and coding
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
-        title: Address
+      - city: London, NW8 8UN
+        country: United Kingdom
+        street: North Bank
+        title: Flat 36, Regent Court
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: ddesa.mba2024@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: 07557 680 144
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Danyel Desa
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -44,19 +44,19 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
+        url: https://www.twitter.com/danyeldesa
+\#    - icon: fa-facebook
+\#      label: Facebook
+\#      url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/danyel_desa
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://www.github.com/danyeldesa
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/danyeldesa
   image: ''
   name: Your name
   navigation:
@@ -81,14 +81,14 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+      - image: pic06.jpg
+        subtitle: Project on data science basics
+        title: Intro to Data Science
+        url: https://github.com/danyeldesa/dsb23-danyel/tree/main/session01_lecture1
+      - image: pic05.jpg
+        subtitle: Exploration of plots
+        title: Plotting and visualizing
+        url: https://github.com/danyeldesa/dsb23-danyel/tree/main/session03_lecture2
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
